@@ -6,7 +6,7 @@ Comparing three deep learning architectures for 4-class brain tumor classificati
 
 ## Architectures
 
-![Architecture](images/architecture.png)
+![Architecture](images/architecture_image.png)
 
 ### 1. EfficientNet-B3 (full fine-tune)
 
